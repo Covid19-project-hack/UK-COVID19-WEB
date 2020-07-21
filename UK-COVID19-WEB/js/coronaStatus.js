@@ -5,7 +5,7 @@ $(document).ready(function ()
     url: "https://api.covid19india.org/state_district_wise.json",
     success: function (returnedData)
     {
-      const district_data=returnedData["Tamil Nadu"].districtData;
+      const district_data=returnedData["Uttarakhand"].districtData;
       populateData(district_data);
     }
   });
