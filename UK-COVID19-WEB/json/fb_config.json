@@ -1,0 +1,9 @@
+{
+  "apiKey": "AIzaSyD0-oUwekvafvP_27VsZhsG5qMF6AO29fI",
+  "authDomain": "uk-covid-19-project.firebaseapp.com",
+  "databaseURL": "https://uk-covid-19-project.firebaseio.com",
+  "projectId": "uk-covid-19-project",
+  "storageBucket": "uk-covid-19-project.appspot.com",
+  "messagingSenderId": "87009049734",
+  "appId": "1:87009049734:web:ea08cdc2586e4ca2a6a507"
+}
